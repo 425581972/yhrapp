@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //你好，你很好？
-        //天气不错
+        //天气不错？
     }
 }
