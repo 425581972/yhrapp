@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //你好，你很好？
         //天气不错？
+        //咋弄啊
     }
 }
